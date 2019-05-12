@@ -16,11 +16,9 @@ Ada dua file.c yang akan digunakan untuk menyelesaikan msalah ini.
 
 ---FUSE---
 
-Fungsi yang dibutuhkan :
-        > xmp_getattr untuk mengambil atribut
-        > xmp_read untuk membaca file
-        > xmp_readdir untuk membaca direktori
-        > xmp_write untuk mengedit file
-        > xmp_mknod untuk membuat file yang tertentu yang diinginkan
+Fungsi yang dibutuhkan : <br>
+        > xmp_getattr untuk mengambil atribut <br>
+        > xmp_read untuk membaca file <br>
+        > xmp_readdir untuk membaca direktori <br>
 
 ---MP3---
